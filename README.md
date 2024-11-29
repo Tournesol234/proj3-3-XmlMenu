@@ -6,7 +6,9 @@
 
 ## 字体大小点击效果
 
-![image](https://github.com/user-attachments/assets/053f343b-3bf5-49c4-8b45-e0bd0a0bfa50)
+
+
+![image](https://github.com/user-attachments/assets/7062a372-015b-4569-8cbd-a01c95f1d3f5)
 
 
 ## 普通菜单项
@@ -20,4 +22,4 @@
 
 ## 字体颜色点击效果
 
-![image](https://github.com/user-attachments/assets/7062a372-015b-4569-8cbd-a01c95f1d3f5)
+![image](https://github.com/user-attachments/assets/053f343b-3bf5-49c4-8b45-e0bd0a0bfa50)
